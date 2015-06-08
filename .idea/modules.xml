@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WallpaperPicker.iml" filepath="$PROJECT_DIR$/WallpaperPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WallpaperPickerLibrary/WallpaperPickerLibrary.iml" filepath="$PROJECT_DIR$/WallpaperPickerLibrary/WallpaperPickerLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/sample.iml" filepath="$PROJECT_DIR$/app/sample.iml" />
+    </modules>
+  </component>
+</project>
